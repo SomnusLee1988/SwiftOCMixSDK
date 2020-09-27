@@ -33,4 +33,6 @@ TODO: Add long description of the pod here.
 #  s.private_header_files = 'SwiftOCMixSDK/SwiftOCMixSDK.h'
   s.static_framework = true
 
+  s.dependency 'OCSDK1'
+
 end
