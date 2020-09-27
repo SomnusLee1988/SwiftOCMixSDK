@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
                        DESC
 
   s.homepage         = 'https://github.com/SomnusLee1988/SwiftOCMixSDK'
-  s.source           = { :git => 'git@github.com:SomnusLee1988/SwiftOCMixSDK.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/SomnusLee1988/SwiftOCMixSDK.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.0'
 
